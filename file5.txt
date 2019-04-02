@@ -2,3 +2,5 @@ this is a new feature
 Adding another new feature
 Add a new style here
 add a new style here
+Add a new button
+Add a new nav bar
